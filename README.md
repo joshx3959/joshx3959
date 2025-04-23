@@ -10,7 +10,7 @@
 <h2> Certifcations</h2>
 
 - Google IT Support Professional (https://coursera.org/share/e1d0f2ae06fc2d9c6cd3188c3635f4c6)
-
+- Currently working on getting the Comptia A+ Certifcation
 
 
 <h2>📺 Popular YouTube Videos</h2>
